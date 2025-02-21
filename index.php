@@ -6,14 +6,14 @@
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
 
-    <title>SOCIETE NEW AUTONOBILE salim</title>
+    <title>SOCIETE NEW AUTONOBILE</title>
     
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-danger ">
   <div class="container-fluid ">
     <a class="navbar-brand h1" href="#"><span class="text-primary">NEW</span> <span class="text-dark  ">AUTOMOBILE</span></a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse mx-4 text-center" id="l1 ">
